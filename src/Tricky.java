@@ -1,7 +1,7 @@
 /*
   	ISYS 320
-  	Name(s):
-  	Date: 
+  	Name(s):Garrett Weissenborn
+  	Date: 11/2/2017
 */
 
 // 1. Your predicted output My prediction is 
