@@ -37,6 +37,8 @@ public class Tricky {
 
 
 // 3. Were you correct? Explain any differences
+
+// I was not totally correct I put spaces between the phrases because I seen "println. I did get the order right.
  
  
 
