@@ -32,7 +32,7 @@ public class Tricky {
 	        message1();
 	        System.out.println("Done with message 2.");
 	    }
-	}
+}
 
 
 
@@ -41,4 +41,3 @@ public class Tricky {
 // I was not totally correct I put spaces between the phrases because I seen "println. I did get the order right.
  
  
-
